@@ -9,4 +9,4 @@ Materiale per il corso di  _Tecniche di Programmazione_  per il Corso di Laurea 
 
 ## Repository principali
 
-:blue_book: [Materiali del corso](https://github.com/TdP-2024/materiale)
+:blue_book: [Materiali del corso](https://tdp-2024.github.io/materiale/)
