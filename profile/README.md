@@ -5,7 +5,7 @@ Materiale per il corso di  _Tecniche di Programmazione_  per il Corso di Laurea 
 ## Informazioni
 
 - Pagina del corso <https://bit.ly/polito-TdP>
-- Video Lezioni (prossimamente)
+- [Video Lezioni](https://www.youtube.com/playlist?list=PLqRTLlwsxDL9MLIhL4z0Has1BVcGO4krI)
 
 ## Repository principali
 
